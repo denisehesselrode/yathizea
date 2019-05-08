@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://aicheiphee.brightplum.com/sitemap.xml
